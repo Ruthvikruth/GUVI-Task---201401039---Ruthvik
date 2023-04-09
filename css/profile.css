@@ -1,0 +1,17 @@
+body
+{
+    background-color: #545b5a;
+    color:white;
+}
+
+form
+{
+    margin-left:20%;
+    margin-right:20%;
+}
+
+#profile-grid
+{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}

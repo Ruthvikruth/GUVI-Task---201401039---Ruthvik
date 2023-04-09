@@ -1,0 +1,40 @@
+form
+{
+   margin-left:25%;
+   margin-right:25%;
+   background-color: #316dd5;
+   color: white;
+   width:500px;
+   margin-bottom:0;
+}
+
+#parent-form
+{
+   background-color: #316dd5;
+   border-radius: 10px;
+   margin:20%;
+   margin-top:1%;
+   justify-content: center;
+   margin-bottom:0;
+}
+
+#reg
+{
+   font-size:2.6vw;
+}
+
+a
+{
+   color: white;
+}
+
+.text-uppercase
+{
+   margin-top:20%;
+   font-size:40px;
+}
+
+#male,#female,#others
+{
+   accent-color: white;
+}
